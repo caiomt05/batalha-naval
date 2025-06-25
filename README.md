@@ -1,6 +1,6 @@
 # Jogo de Batalha Naval
 
-Trabalho prático feito por Caio Mateus Dos Santos Dia para a disciplina de programação em C.
+Trabalho prático feito por Caio Mateus Dos Santos Dias para a disciplina de programação em C.
 
 ## Objetivos
 - Uso de vetores e matrizes para representar o tabuleiro
